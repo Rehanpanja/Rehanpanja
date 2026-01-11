@@ -1,12 +1,6 @@
 # 💫 About Me:
 I’m currently pursuing my Bachelors in Computer Application and my Tech Skills includes JAVA Python CSS HTML and my Hobbies are Love to play football Designing Drawing Coding Fast learner<br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeroday51) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
-I’m currently pursuing my Bachelors in Computer Application and my Tech Skills includes JAVA Python CSS HTML and my Hobbies are Love to play football Designing Drawing Coding Fast learner<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeroday51) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-panja) 
 
