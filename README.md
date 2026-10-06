@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hyYWpmb2w1ajR2ZnkxaGNzdTRoYTc5c2tpOHEzZDl2amtrangwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+<img data-importer="image" align="right" height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hyYWpmb2w1ajR2ZnkxaGNzdTRoYTc5c2tpOHEzZDl2amtrangwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rehanpanja&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
