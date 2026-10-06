@@ -1,29 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning JavaScript<br>
+<div align="center">
 
+# Hi, I'm Rehan 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-panja-bab76731b)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rehanpanja24@gmail.com)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Learning+JavaScript+%F0%9F%9A%80;Building+cool+projects+%F0%9F%92%BB;Always+curious%2C+always+creating." alt="Typing SVG" />
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Rehanpanja&label=Profile%20Views&color=58A6FF&style=flat)](https://github.com/Rehanpanja)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rehanpanja&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rehanpanja&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rehanpanja&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+## 💫 About Me
+
+- 🔭 Currently working on exciting personal projects
+- 🌱 Currently learning **JavaScript**
+- 💡 Interested in web development, design, and creative technology
+- ⚡ Turning ideas into projects, one line of code at a time
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rehan-panja-bab76731b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rehanpanja24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,python,php,tailwind,latex,blender" alt="Tech stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rehanpanja&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rehan's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanpanja&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rehanpanja&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rehanpanja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rehanpanja&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Rehanpanja&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies" />
+
+</div>
+
+## ✍️ Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rehanpanja&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### Thanks for visiting! ✨  
+*Feel free to connect or explore my repositories.*
+
+</div>
